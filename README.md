@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YeltsinMartin
 - 👀 I’m interested in C++ application software development and game engines
-- 🌱 I’m currently learning opengl
 - 💞️ I’m looking to collaborate on Radio controlled planes, Quadcopter, rover, control systems, game programming
 - 📫 How to reach me https://www.linkedin.com/in/yeltsin/
 
